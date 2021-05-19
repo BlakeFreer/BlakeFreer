@@ -2,8 +2,6 @@
 
 I'm a student in Engineering 1 at McMaster University. I have completed a few projects which you can find here, including a few on natural growth (See [Veritasium Population Simulation](https://github.com/BlakeFreer/Veritasium_Population_Simulation) and [Sheep Simulator](https://github.com/BlakeFreer/SheepSimulator)).
 
-I am looking to specialize in Mechatronics or Engineering Physics, and want to research and develop efficient ways to produce and use electricity.
-
 <!--
 **BlakeFreer/BlakeFreer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
