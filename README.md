@@ -1,18 +1,22 @@
-I'm a Mechatronics Engineering student at McMaster University. Currently writing C++ firmware as the [Firmware Lead for Mac Formula Electric](https://github.com/macformula/racecar).
+I'm a Mechatronics Engineering + Pure Math student at McMaster University.
 
-Check out my project portfolio <https://blakefreer.github.io/>.
+Currently writing C++ firmware as the [Firmware Lead for Mac Formula Electric](https://github.com/macformula/racecar).
 
-# Embedded
+Check out my portfolio <https://blakefreer.github.io/>.
 
-- [asp](https://github.com/BlakeFreer/asp), a custom assembler for a stepper motor ASIP
-- [All of the Lights](https://github.com/BlakeFreer/AllOfTheLights), a hackathon project which won [best hardware hack at DeltaHacks8](https://devpost.com/software/all-of-the-lights-b31saz)
-- [Implementing UART communication using an LED and photoresistor](https://github.com/BlakeFreer/LED-Serial). 
+### Embedded
 
-# Mathematics
+- [asp](https://github.com/BlakeFreer/asp), a custom assembler for a stepper motor ASIP.
+- [Bare Metal AVR Tutorial](https://github.com/BlakeFreer/AVR-Bare-Metal) for gettings started with register level programming.
+- [All of the Lights](https://github.com/BlakeFreer/AllOfTheLights), a hackathon project which won [best hardware hack at DeltaHacks8](https://devpost.com/software/all-of-the-lights-b31saz).
+- [Implementing UART communication using an LED and photoresistor](https://github.com/BlakeFreer/LED-Serial).
 
-I'm also pursuing a second degree in pure mathematics and have found programming to be an excellent tool to help visualize and share my learnings. 
+### Other Projects
 
-- [Linear Least Squares polynomial fitter in Rust](https://github.com/BlakeFreer/Playground/tree/main/rust/linear_least_squares).
-- I have two projects related to dynamical systems.
-    - The logistic map in [Chaotic Growth Simulation](https://github.com/BlakeFreer/Veritasium_Population_Simulation).
-    - Biological systems demonstrating the effects of genetic advantages in [Sheep Simulator](https://github.com/BlakeFreer/SheepSimulator).
+- [Linear Least Squares polynomial fitter](https://github.com/BlakeFreer/Playground/tree/main/rust/linear_least_squares) in Rust.
+- [Game Engine](https://github.com/BlakeFreer/JavaGameEngine) in Java.
+- [Sudoku Solver](https://github.com/BlakeFreer/SudokuSolver) in Python.
+
+### Even more
+
+[blakefreer.github.io/projects](https://blakefreer.github.io/projects/)
