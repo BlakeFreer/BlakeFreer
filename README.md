@@ -4,7 +4,7 @@ Check out my project portfolio <https://blakefreer.github.io/>.
 
 # Embedded
 
-- [asp](https://github.com/BlakeFreer/asp/tree/main), a custom assembler for a stepper motor ASIP
+- [asp](https://github.com/BlakeFreer/asp), a custom assembler for a stepper motor ASIP
 - [All of the Lights](https://github.com/BlakeFreer/AllOfTheLights), a hackathon project which won [best hardware hack at DeltaHacks8](https://devpost.com/software/all-of-the-lights-b31saz)
 - [Implementing UART communication using an LED and photoresistor](https://github.com/BlakeFreer/LED-Serial). 
 
