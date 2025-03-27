@@ -1,4 +1,4 @@
-I'm a Mechatronics Engineering student at McMaster University. I am currently writing C++ firmware as the [Firmware Lead for Mac Formula Electric](https://github.com/macformula/racecar).
+I'm a Mechatronics Engineering student at McMaster University. Currently writing C++ firmware as the [Firmware Lead for Mac Formula Electric](https://github.com/macformula/racecar).
 
 Check out my project portfolio <https://blakefreer.github.io/>.
 
