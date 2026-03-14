@@ -3,7 +3,7 @@ I'm a Mechatronics Engineering + Pure Math student at McMaster University.
 Check out my portfolio <https://blakefreer.github.io/>.
 
 Spending all my time on capstone [https://github.com/AmberCapstone](https://github.com/AmberCapstone).
-- writing firmware in Rust with [embassy.dev](embassy.dev)
+- writing firmware in Rust with [embassy.dev](https://embassy.dev)
 - making apps in Rust + React
 - designing PCBs in KiCad
 
